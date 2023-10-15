@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Арена золотой сферы - Редактор мира", "Арена золотой сферы - Редактор мира.vcxproj", "{55E86017-1983-4461-BB5C-CC85C999CA6F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Арена золотой сферы - Клиент", "..\Арена золотой сферы - Клиент\Арена золотой сферы - Клиент.vcxproj", "{1EEEE0A1-5E39-43BE-B314-D3ED55D51737}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Арена золотой сферы - Сервер", "..\Арена золотой сферы - Сервер\Арена золотой сферы - Сервер.vcxproj", "{A792F491-9E21-4FFB-9A93-C0B791569644}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{55E86017-1983-4461-BB5C-CC85C999CA6F}.Release|x64.Build.0 = Release|x64
 		{55E86017-1983-4461-BB5C-CC85C999CA6F}.Release|x86.ActiveCfg = Release|Win32
 		{55E86017-1983-4461-BB5C-CC85C999CA6F}.Release|x86.Build.0 = Release|Win32
+		{1EEEE0A1-5E39-43BE-B314-D3ED55D51737}.Debug|x64.ActiveCfg = Debug|x64
+		{1EEEE0A1-5E39-43BE-B314-D3ED55D51737}.Debug|x64.Build.0 = Debug|x64
+		{1EEEE0A1-5E39-43BE-B314-D3ED55D51737}.Debug|x86.ActiveCfg = Debug|Win32
+		{1EEEE0A1-5E39-43BE-B314-D3ED55D51737}.Debug|x86.Build.0 = Debug|Win32
+		{1EEEE0A1-5E39-43BE-B314-D3ED55D51737}.Release|x64.ActiveCfg = Release|x64
+		{1EEEE0A1-5E39-43BE-B314-D3ED55D51737}.Release|x64.Build.0 = Release|x64
+		{1EEEE0A1-5E39-43BE-B314-D3ED55D51737}.Release|x86.ActiveCfg = Release|Win32
+		{1EEEE0A1-5E39-43BE-B314-D3ED55D51737}.Release|x86.Build.0 = Release|Win32
+		{A792F491-9E21-4FFB-9A93-C0B791569644}.Debug|x64.ActiveCfg = Debug|x64
+		{A792F491-9E21-4FFB-9A93-C0B791569644}.Debug|x64.Build.0 = Debug|x64
+		{A792F491-9E21-4FFB-9A93-C0B791569644}.Debug|x86.ActiveCfg = Debug|Win32
+		{A792F491-9E21-4FFB-9A93-C0B791569644}.Debug|x86.Build.0 = Debug|Win32
+		{A792F491-9E21-4FFB-9A93-C0B791569644}.Release|x64.ActiveCfg = Release|x64
+		{A792F491-9E21-4FFB-9A93-C0B791569644}.Release|x64.Build.0 = Release|x64
+		{A792F491-9E21-4FFB-9A93-C0B791569644}.Release|x86.ActiveCfg = Release|Win32
+		{A792F491-9E21-4FFB-9A93-C0B791569644}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
